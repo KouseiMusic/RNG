@@ -1,4 +1,5 @@
-**<p align="center">RNG</p>**
+<p align="center"><img width="170" height="68" alt="rngbannersmall" src="https://github.com/user-attachments/assets/621a059c-91b8-4dc7-a305-ecbdb2661871" />
+</p>
 
 **_<p align="center">Cellular Automaton Sequencer.</p>_**
 
