@@ -1,4 +1,4 @@
-<p align="center"><strong>RNG</strong></p>
+# <p align="center">RNG</p>
 
 **_<p align="center">Cellular Automaton Sequencer.</p>_**
 
@@ -14,17 +14,17 @@
 
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
-- **Cellular Automaton Engine**: A 16x16 grid based on Conway's Game of Life. The sequence evolves over time, creating evolving, generative rhythmic patterns.
-- **Customizable Rules**: Independently toggle "Sun" (Birth) and "Void" (Survive) conditions to alter the genetic behavior of the grid. Edge-wrapping can be toggled on or off for bounded or infinite spatial logic.
-- **Analog Samples**: Drums directly recorded on hardwares drums machines :
+- **Cellular Automaton Engine**: A 16x16 grid based on Conway's Game of Life. The sequence evolves over time, creating evolving generative rhythmic patterns.
+- **Customizable Rules**: Independently toggle "Sun" and "Void" conditions to alter the genetic behavior of the grid. Edge-wrapping can be toggled on or off for bounded or infinite spatial logic.
+- **Analog Samples, Drums directly recorded on hardwares drums machines**:
   - Perkons HD 01 
   - LXR-02
   - TR-808
   - TR-909
-- **Advanced Sequencing**: Variable sequence length (up to 16 steps) and multiple play directions: Forward, Backward, Pendulum, and Random.
-- **Algorithmic Randomizer**: Click 'Random' to instantly spawn context-aware patterns from algorithmic archetypes such as Industrial Techno, Hypnotic Techno, Minimal Techno, and Jungle DNB.
+- **Advanced Sequencing**: Variable sequence length (up to 16 steps) and multiple play directions: Forward, Backward, Pendulum and Random.
+- **Algorithmic Randomizer**: Click 'Random' to instantly spawn context-aware patterns from algorithmic archetypes such as Industrial Techno, Hypnotic Techno, Minimal Techno and Jungle DNB.
 - **DSP Engine**: Integrated sample-based drum machine and synth playback. Includes global parameters for Drive, Low-pass Filter Cutoff, Resonance, Pitch Modulation, master Delay and Reverb Mix.
-- **Vast Preset Library**: Includes meticulously crafted starting states such as *Techno Seed*, *Polyrhythm*, *Binary Rain*, *Cybernetic*, *Quantum State*, *IDM Glitch*, and *Jungle Amen*.
+- **Vast Preset Library**: Includes meticulously crafted starting states such as *Techno Seed*, *Polyrhythm*, *Binary Rain*, *Cybernetic*, *Quantum State*, *IDM Glitch*.
 - **Visual Performance**: Real-time canvas rendering of the active grid, alive cells and playback position, complete with a dark teal aesthetic and dynamic pulse animations.
 
 ---
