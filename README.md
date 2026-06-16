@@ -1,4 +1,4 @@
-# <p align="center">RNG</p>
+**<p align="center">RNG</p>**
 
 **_<p align="center">Cellular Automaton Sequencer.</p>_**
 
