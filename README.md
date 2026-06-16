@@ -12,6 +12,10 @@
 
 ---
 
+<p align="center"><img width="850" height="650" alt="rngpreview" src="https://github.com/user-attachments/assets/35f07927-c9cd-43b8-add0-0d6d7c33bd0d" /></p>
+
+---
+
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - **Cellular Automaton Engine**: A 16x16 grid based on Conway's Game of Life. The sequence evolves over time, creating evolving generative rhythmic patterns.
