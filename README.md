@@ -4,7 +4,7 @@
 
 ---
 
-![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Under%20Development-orange?style=flat-square&logo=construction&logoColor=white)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Universal-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
 ![Format](https://img.shields.io/badge/Format-Standalone%20%7C%20AU%20%7C%20VST3-00CED1?style=flat-square)
