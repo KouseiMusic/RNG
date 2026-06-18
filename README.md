@@ -1,6 +1,6 @@
 <p align="center"><img width="170" height="66" alt="rsgbannersmall" src="https://github.com/user-attachments/assets/b06d3948-ceb2-4af2-bddb-18bcb4a35fb7" /></p>
 
-**_<p align="center">Cellular Automaton Sequencer / Random Sequences Generation.</p>_**
+**_<p align="center">Cellular Automaton Sequencer / Random Sequence Generation.</p>_**
 
 ---
 
