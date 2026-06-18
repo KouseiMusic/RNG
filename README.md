@@ -21,7 +21,7 @@
 - **Cellular Automaton Engine**: A 16x16 grid based on Conway's Game of Life. The sequence evolves over time, creating evolving generative rhythmic patterns.
 - **Customizable Rules**: Independently toggle "Sun" and "Void" conditions to alter the genetic behavior of the grid. Edge-wrapping can be toggled on or off for bounded or infinite spatial logic.
 - **Analog Samples, Drums directly recorded on hardwares drums machines**:
-  - Perkons HD 01 
+  - Perkons HD-01 
   - LXR-02
   - TR-808
   - TR-909
