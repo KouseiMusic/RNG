@@ -12,7 +12,7 @@
 
 ---
 
-<p align="center"><img width="1206" height="724" alt="rsgpreview" src="https://github.com/user-attachments/assets/845d19a7-6d7f-4e0e-86fe-5be5f61412bc" /></p>
+<p align="center"><img width="1201" height="724" alt="rsgpreview" src="https://github.com/user-attachments/assets/55005a75-532b-449e-a1da-725be620ca08" /></p>
 
 ---
 
