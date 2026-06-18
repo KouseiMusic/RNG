@@ -1,5 +1,4 @@
-<p align="center"><img width="170" height="68" alt="rngbannersmall" src="https://github.com/user-attachments/assets/621a059c-91b8-4dc7-a305-ecbdb2661871" />
-</p>
+<p align="center"><img width="170" height="66" alt="rsgbannersmall" src="https://github.com/user-attachments/assets/b06d3948-ceb2-4af2-bddb-18bcb4a35fb7" /></p>
 
 **_<p align="center">Cellular Automaton / Intelligent Randomizer Sequencer.</p>_**
 
@@ -13,7 +12,7 @@
 
 ---
 
-<p align="center"><img width="850" height="650" alt="rngpreview" src="https://github.com/user-attachments/assets/35f07927-c9cd-43b8-add0-0d6d7c33bd0d" /></p>
+<p align="center"><img width="1206" height="724" alt="rsgpreview" src="https://github.com/user-attachments/assets/845d19a7-6d7f-4e0e-86fe-5be5f61412bc" /></p>
 
 ---
 
@@ -45,15 +44,15 @@
 
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
-1. Download the latest RNG release.
-2. Extract and drag `RNG` to your Applications folder.
+1. Download the latest `RSG` release.
+2. Extract and drag `RSG` to your Applications folder.
 3. If macOS shows a Gatekeeper warning on first launch, right-click the application and choose `Open`, then confirm.
 
 ---
 
 ## 𝐏𝐫𝐞𝐬𝐞𝐭𝐬
 
-`RNG` includes a variety of presets designed for different aesthetics:
+`RSG` includes a variety of presets designed for different aesthetics:
 
 | Preset Group | Character |
 | :--- | :--- |
