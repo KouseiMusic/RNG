@@ -26,7 +26,7 @@
   - TR-808
   - TR-909
 - **Advanced Sequencing**: Variable sequence length (1 to 16 steps) and multiple play directions: Forward, Backward, Pendulum and Random. Switching to Forward, Backward or Pendulum while playing waits for the current pattern to finish its cycle before the new direction takes effect; Random applies instantly.
-- **Algorithmic Randomizer**: Click the **RSG** button to instantly spawn context-aware patterns across four genre families — Industrial, Hypnotic, Jungle/DnB and IDM — each with multiple structural archetypes and Euclidean-rhythm-based generation for musically coherent results.
+- **Algorithmic Randomizer**: Click the **RSG** button to instantly spawn context-aware patterns across four genres: <br> Industrial, Hypnotic, Jungle/DnB and IDM. Each with multiple structural archetypes and Euclidean-rhythm-based generation for musically coherent results.
 - **DSP Engine**: Integrated sample-based drum machine and synth playback. Includes global parameters for Drive, Low-pass Filter Cutoff, Resonance, 3-band EQ (Low/Mid/High), Pitch Modulation, master Delay and Reverb Mix.
 - **Preset Library**: Includes a curated set of starting states across Industrial Techno, Hypnotic Techno, Jungle/DnB, IDM and generative Cellular categories.
 - **Visual Performance**: Real-time grid rendering of the active pattern, alive cells and playback position, complete with a dark cyan aesthetic and glow animations.
