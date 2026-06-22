@@ -45,7 +45,7 @@
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
 
-1. Download the latest `RSG` release.
+1. Download the latest [`RSG`](https://github.com/KouseiMusic/RSG/releases/download/RSG_1.0.0/RSG_1.0.0_app_macOS_Universal.zip) release.
 2. Extract and drag `RSG` to your Applications folder.
 3. If macOS shows a Gatekeeper warning on first launch, right-click the application and choose `Open`, then confirm.
 
