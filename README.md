@@ -22,7 +22,7 @@
 
 - **Customizable Rules**: Independently toggle "Sun" (birth) and "Void" (survival) neighbor counts, from 1 to 8 to alter the genetic behavior of the grid. Edge wrapping can be toggled on or off for bounded or infinite spatial logic.
 
-- **Analog Samples, Drums directly recorded on hardwares drums machines**:
+- **Analog Samples, Drums & Sub Bass directly recorded on hardwares machines**:
   - TR-808 ([Steven Tang](https://emphasisrecordings.bandcamp.com/))
   - TR-909 ([Steven Tang](https://emphasisrecordings.bandcamp.com/))
   - Perkons HD-01 (Kousei)
