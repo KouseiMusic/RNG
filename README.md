@@ -119,6 +119,13 @@
 
 ---
 
+## 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 & 𝐀𝐜𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐦𝐞𝐧𝐭𝐬
+
+- **Developer**: [Kousei](https://github.com/KouseiMusic)
+- **Tr-808 & 909 samples**: [Steven Tang](https://emphasisrecordings.bandcamp.com/)
+
+---
+
 _This software is free. If you liked the sequencer, don't forget to give it a ⭐️ on GitHub._
 
 ---
