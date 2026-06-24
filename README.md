@@ -26,7 +26,7 @@
   - TR-808 ([Steven Tang](https://emphasisrecordings.bandcamp.com/))
   - TR-909 ([Steven Tang](https://emphasisrecordings.bandcamp.com/))
   - Perkons HD-01 (Kousei)
-  - LXR-02 from (Kousei)
+  - LXR-02 (Kousei)
   - Analog Four MKII (Kousei)
 
 - **Advanced Sequencing**: Variable sequence length (1 to 16 steps) and multiple play directions: Forward, Backward, Pendulum and Random. Switching to Forward, Backward or Pendulum while playing waits for the current pattern to finish its cycle before the new direction takes effect. Random applies instantly.
